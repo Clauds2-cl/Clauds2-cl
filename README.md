@@ -18,6 +18,15 @@ A passionate developer exploring the world of **Python**, **HTML**, and **CSS**.
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### 🔥 Most Used Languages  
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clauds2-cl&layout=compact&theme=gruvbox&langs_count=10" height="180px"/>
+
+</div>  
+
+---
+
 ### 👯 I’m looking to collaborate on...
 - Web development projects
 - Open source projects
